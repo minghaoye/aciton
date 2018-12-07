@@ -1,0 +1,1 @@
+pipeline {↵  agent any↵  stages {↵    stage('1222') {↵      steps {↵        echo '123'↵      }↵    }↵  }↵}
